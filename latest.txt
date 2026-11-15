@@ -1,0 +1,5 @@
+version=1.0.1
+net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.1/SmartLinker_net48.dll|649fe0aef26c6492fc45ce71746e0185e602df54fd75db0418311a59a566ff3e
+net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.1/SmartLinker_net8.dll|87ee2a1a2f53ccec8bf9080492d2222c498b39e0f98ac9636c4ab179e5a3b5ad
+note=Automatic updates: new versions download in the background and are used on your next click.
+note=A small "Updated" line shows once after an update, with a What's new link.
