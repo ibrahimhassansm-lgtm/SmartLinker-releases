@@ -1,5 +1,7 @@
-version=1.0.1
-net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.1/SmartLinker_net48.dll|649fe0aef26c6492fc45ce71746e0185e602df54fd75db0418311a59a566ff3e
-net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.1/SmartLinker_net8.dll|87ee2a1a2f53ccec8bf9080492d2222c498b39e0f98ac9636c4ab179e5a3b5ad
-note=Automatic updates: new versions download in the background and are used on your next click.
-note=A small "Updated" line shows once after an update, with a What's new link.
+version=1.0.2
+net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.2/SmartLinker_net48.dll|37d9fb36971a1cbac848ee114639e983f6426b235d621f254bff1a599ffefa34
+net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.2/SmartLinker_net8.dll|9bf0d2ed6de5a1316033537fa86bb5b4585b6a52a8b7f611fa110e461ee39687
+note=New Manage links tab: see every link with its status, type, workset and source; Reload, Reload from, Unload, Remove and Reload all.
+note=New option: one workset per link, named from the model file name (360 preset, optional sub-zone), created if missing.
+note=Manage links shows the full path each link comes from, and highlights links whose path doesn't contain a chosen word (default "Consume").
+note=Clearer, bolder tabs at the top of the window.

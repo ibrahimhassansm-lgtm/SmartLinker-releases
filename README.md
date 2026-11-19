@@ -5,9 +5,11 @@ Installed add-ins update automatically from here.
 
 **Install:** download [SmartLinker_Setup.exe](https://github.com/ibrahimhassansm-lgtm/SmartLinker-releases/raw/main/SmartLinker_Setup.exe) (always the latest version) and run it.
 
-Current version: **1.0.1**
+Current version: **1.0.2**
 
-- Automatic updates: new versions download in the background and are used on your next click.
-- A small "Updated" line shows once after an update, with a What's new link.
+- New Manage links tab: see every link with its status, type, workset and source path; Reload, Reload from, Unload, Remove and Reload all.
+- Links whose path doesn't contain "Consume" are highlighted (the word can be changed).
+- New option: one workset per link, named from the model file name (360 preset, optional sub-zone), created if missing.
+- Clearer, bolder tabs at the top of the window.
 
 Developed by Ibrahim Hassan
