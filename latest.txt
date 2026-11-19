@@ -1,4 +1,5 @@
-version=1.0.3
-net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.3/SmartLinker_net48.dll|cbce70c9b117783214821bd85c0ecbe11e81e9be968962d38f5d11aa36844dfd
-net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.3/SmartLinker_net8.dll|6a64f515da1665b70281942de62e629255f9c2922066aaa273db6be2e69277a7
-note=Manage links: change a link's workset right in the list; with several links selected, all of them move.
+version=1.0.4
+net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.4/SmartLinker_net48.dll|b2b36f812688f6b8625835733f3ec0d1b78af135add10f98ea2e42b8956bc60d
+net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.4/SmartLinker_net8.dll|92f5a18f1adf5607c85f6dcca2174f0a083121ead6566fc90e1f8728f3ccd7ab
+note=Models that are not cloud models can now be linked from their file location (local or network). They are marked "Local file" in red so they stand out.
+note=What's new: click the version in the header to see the full changelog from v1.0.0. After every update, a small "Updated" line links to it.

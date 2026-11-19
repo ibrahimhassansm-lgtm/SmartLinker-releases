@@ -5,7 +5,10 @@ Installed add-ins update automatically from here.
 
 **Install:** download [SmartLinker_Setup.exe](https://github.com/ibrahimhassansm-lgtm/SmartLinker-releases/raw/main/SmartLinker_Setup.exe) (always the latest version) and run it.
 
-Current version: **1.0.3**
+Current version: **1.0.4**
+
+- Non-cloud models can be linked from their file location (marked "Local file").
+- Click the version in the header to see the full changelog.
 
 - Manage links: change a link's workset right in the list; with several links selected, all of them move.
 - New Manage links tab: see every link with its status, type, workset and source path; Reload, Reload from, Unload, Remove and Reload all.
