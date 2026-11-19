@@ -1,7 +1,4 @@
-version=1.0.2
-net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.2/SmartLinker_net48.dll|37d9fb36971a1cbac848ee114639e983f6426b235d621f254bff1a599ffefa34
-net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.2/SmartLinker_net8.dll|9bf0d2ed6de5a1316033537fa86bb5b4585b6a52a8b7f611fa110e461ee39687
-note=New Manage links tab: see every link with its status, type, workset and source; Reload, Reload from, Unload, Remove and Reload all.
-note=New option: one workset per link, named from the model file name (360 preset, optional sub-zone), created if missing.
-note=Manage links shows the full path each link comes from, and highlights links whose path doesn't contain a chosen word (default "Consume").
-note=Clearer, bolder tabs at the top of the window.
+version=1.0.3
+net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.3/SmartLinker_net48.dll|cbce70c9b117783214821bd85c0ecbe11e81e9be968962d38f5d11aa36844dfd
+net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/SmartLinker-releases/main/v1.0.3/SmartLinker_net8.dll|6a64f515da1665b70281942de62e629255f9c2922066aaa273db6be2e69277a7
+note=Manage links: change a link's workset right in the list; with several links selected, all of them move.
